@@ -1,1 +1,1 @@
-take quiz, result: 
+take quiz, result: passed (optional) 
